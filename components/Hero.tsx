@@ -8,9 +8,11 @@ const Hero = () => {
    <section className="relative bg-hero bg-cover bg-center bg-no-repeat h-[100vh] w-full z-10 pb-12">
     <div className="max-container padding-container relative top-28 sm:top-1/3 z-10">
       <h1 className="bold-44 sm:bold-64 text-white capitalize max-w-[36rem]">Explore The World With Us</h1>
-      <p className="regular-16 mt-6 text-white lg:w-1/2">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae eos, excepturi tempora labore consequatur sit atque eaque perspiciatis ullam dignissimos praesentium aperiam corporis unde nesciunt placeat quam ad architecto impedit.
-      </p>
+<p className="regular-16 mt-6 text-white lg:w-1/2">
+  Explore the world like never before with personalized travel plans and curated experiences. 
+  Visit iconic landmarks, hidden treasures, and scenic escapes that inspire and excite. 
+  Enjoy smooth bookings, reliable support.
+</p>
       <div className="mt-8">
         <Button
         type="button"

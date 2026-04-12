@@ -59,7 +59,7 @@ const Feature = () => {
       <div className="m-auto w-[90%]">
         <h3 className="bold-32 text-center">Featured Destinations</h3>
         <p className="text-center max-w-lg m-auto text-gray-30 py-6">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur iure
+          No Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur iure
           nulla repellat cupiditate incidunt eaque dolorem similique
         </p>
         <div className="pt-16">

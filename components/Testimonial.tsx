@@ -31,7 +31,7 @@ const Testimonial = () => {
     <section className="padding-container max-container pt-16 bg-slate-10 relative">
       <h3 className="bold-32 text-center">Testimonial</h3>
       <p className="text-center max-w-lg m-auto text-gray-30 py-6">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur iure
+       bk Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur iure
         nulla repellat cupiditate incidunt eaque dolorem similiqueyoOh
       </p>
       <Slider {...settings}>

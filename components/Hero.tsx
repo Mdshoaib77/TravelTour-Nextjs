@@ -11,7 +11,7 @@ const Hero = () => {
 <p className="regular-16 mt-6 text-white lg:w-1/2">
   Explore the world best like never before with personalized travel plans and curated experiences. s
   Visit iconic landmarks, hidden treasures, and scenic escapes that inspire and excite. 
-  Enjoy smooth bookings and reliable support.jo
+  Enjoy smooth bookings and reliable support.jo gfdsg
 </p>
       <div className="mt-8">
         <Button

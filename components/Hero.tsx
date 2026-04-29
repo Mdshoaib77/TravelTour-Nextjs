@@ -9,7 +9,7 @@ const Hero = () => {
     <div className="max-container padding-container relative top-28 sm:top-1/3 z-10">
       <h1 className="bold-44 sm:bold-64 text-white capitalize max-w-[36rem]">Explore The World With Us</h1>
 <p className="regular-16 mt-6 text-white lg:w-1/2">
-  Explore the world best like never before witgh personalized travel plans and curated experiences. s
+  Explore the world best like never before witgh personalized travel plans and curated experiences. sg
   Visdit ifconic landmgarks, hidden treasures, and scenic escapes that inspire and dexcite. 
   Enjoy smooth bookings and reliable support.jo gfdsg b
 </p>

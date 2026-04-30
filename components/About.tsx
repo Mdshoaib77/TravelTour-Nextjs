@@ -82,7 +82,7 @@ const About = () => {
         {/* RIGHT */}
         <div className="flex flex-1 flex-col items-start justify-center">
           <h1 className="bold-52 capitalize pb-4">
-            Join Us In Exploring The Entire World
+            Join Us In Exploring The Entire Worlds
           </h1>
           <p className="text-gray-50">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.

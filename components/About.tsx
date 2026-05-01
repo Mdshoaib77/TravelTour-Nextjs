@@ -12,7 +12,7 @@ const About = () => {
             Join Us In Exploring The Entire World Smosothly expefjdds
           </h1>
           <p className="text-gray-50">
-           NO Lorem ipsum no dolor sit amet consectetur adipisicing elit.
+           NO Lorem ipsum no dolor sit amet consectetsur adipisicing elit.
             Perferendis, illddum tempofribuds aliquid distinctio elrigendi nostrumf
             porro molestiae ea, necessitatibuvffgf
           </p>

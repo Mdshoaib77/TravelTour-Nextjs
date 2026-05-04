@@ -60,7 +60,7 @@ const Feature = () => {
         <h3 className="bold-32 text-center">Featured Destinations</h3>
         <p className="text-center max-w-lg m-auto text-gray-30 py-6">
           No Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur iure
-          nulla repellat cupiditate incidunt eaque dolorem similique
+          nulla repellat cupiditate incidunt eaque dolorem similiquei
         </p>
         <div className="pt-16">
           <Slider {...settings}>

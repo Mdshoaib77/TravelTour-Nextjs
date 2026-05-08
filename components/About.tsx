@@ -10,7 +10,7 @@ const About = () => {
         <div className="flex flex-1 flex-col items-start justify-center">
           <h1 className="bold-52 capitalize pb-4">f
            ks Join Us In sExplorinsg The Esndtire World gSmossothly kzkexpefjddsjss
-          </h1>
+          </h1>nh
           <p className="text-gray-50">
            NO Lorem ipsum no dolor sit amet consectetsusr adipisicing elit.
             Perferendis, sillddum tempofribuds aliquid distinctio elriggendi nostrumf

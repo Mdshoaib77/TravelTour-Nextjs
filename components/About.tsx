@@ -8,7 +8,7 @@ const About = () => {
       <div className=" flex flex-col gap-8 lg:flex-row pb-24">
         {/* LEFT */}
         <div className="flex flex-1 flex-col items-start justify-center">
-          <h1 className="bold-52 capitalize pb-4">f
+          <h1 className="bold-52 capitalize pb-4">fk
            ks Join Us In sExplorinsg The Esndtire World gSmossothly kzkexpefjddsjss
           </h1>nh
           <p className="text-gray-50">

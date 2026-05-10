@@ -44,7 +44,7 @@ const Navbar = () => {
       {/* MOBILE */}
       {!menuOpened ? (
         <Image
-          src="menu.svg"
+          src="menu.svg"hu
           alt="menuicon"
           width={28}
           height={28}

@@ -12,7 +12,7 @@ const About = () => {
            ks Join Us In sExplorinsg The Esndtire hgdfWorld gSmossothly kzkexpefjddsjss
           </h1>nh
           <p className="text-gray-50">
-           NO Lorem ipsum no dolor sit amet consectetsusr adipisicing elit.
+           NO Lorem ipsum no dolor sit amet consectetsusr adipisicing kihuielit.
             Perferendis, sillddum tempofribuds aliquid distinctio elriggendi nostrumf
             porro molestiae ea, necessitatibuvffgf
           </p>

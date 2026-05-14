@@ -19,7 +19,7 @@ const About = () => {
           <br />
           <p className="text-gray-50">
             no Lorem ipsum dolhfdor sit amet consectetur adipisicing elit. Consectetur
-            error corrupti ex aperiam doloribus error corrupti jmex aperiam
+            error corrupti ex aperiam doloribus error corrupti jmex aperiamisis
             doloribus
           </p>
           <div className="flex flex-wrap mt-8">

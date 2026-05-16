@@ -91,7 +91,7 @@ const About = () => {
           </p>
           <br />
           <p className="text-gray-50">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
+            Lorem ipsum dolhgdfor sit amet consectetur adipisicing elit. Consectetur
             error corrupti ex aperiam doloribus error corrupti ex aperiam
             doloribus
           </p>

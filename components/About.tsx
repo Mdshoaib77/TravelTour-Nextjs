@@ -20,7 +20,7 @@ const About = () => {
           <p className="text-gray-50">
             no Lorem ipsum dolhfdor sit amet consectetur adipisicing elit. Consectetur
             error corrupthdf eytrex aperiam doloribus error corrupti jmex aperiamisis
-            doloribus
+            doloribushfd
           </p>
           <div className="flex flex-wrap mt-8">
             {ABOUT.map((about) => (

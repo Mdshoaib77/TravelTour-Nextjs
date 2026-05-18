@@ -12,7 +12,7 @@ const About = () => {
            ks Join Us Inhdfyyreurt sExplhtewjgdfgoriyrtnsdag The Esndtirej hgdfWojrldjz gSmosskothly kzkexpgdfsefjddsjss
           </h1>hdfghgdfsfnhgfh
           <p className="text-gray-50">
-           NO hgfdLorem ipsum nogfds tedolor sit amet consectetsusr adipisicing kihuielit.
+           NO hgfdLorem ipsum nogfds tedyreolor sit amet consectetsusr adipisicing kihuielit.
             Perfernbcxvxehgdfndihgss, sfdigdsllddum tempofrigdsbugdsfgds aliquid distinctio elriggendi nostrumf
             porro molestiae ea, netrewcessitatibuvffghdff
           </p>

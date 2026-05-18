@@ -14,7 +14,7 @@ const About = () => {
           <p className="text-gray-50">
            NO hgfdLorem ipsum nogfds dolor sit amet consectetsusr adipisicing kihuielit.
             Perfernbcxvxehgdfndihgss, sfdillddum tempofrigdsbugdsfgds aliquid distinctio elriggendi nostrumf
-            porro molestiae ea, necessitatibuvffghdff
+            porro molestiae ea, netrewcessitatibuvffghdff
           </p>
           <br />
           <p className="text-gray-50">

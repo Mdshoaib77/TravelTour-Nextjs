@@ -18,7 +18,7 @@ const About = () => {
           </p>
           <br />
           <p className="text-gray-50">
-            noj Lorem ipsum dolhfdor sit amet consectetur adipjisicking elit. Consectetur
+            noj Lorem ipsum dolhfdor siyrtet amet consectetur adipjisicking elit. Consectetur
             error corrupthdf eytrex aperiam dolorjibus error corrupti jmex apueriamisis
             dolorjibushfdk
           </p>

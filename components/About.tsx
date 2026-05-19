@@ -88,7 +88,7 @@ const About = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Perferendis, illum temporibus aliquid distinctio eligendi nostrum
             porro molestiae ea, necessitatibus
-          </p>
+          </p>gsd
           <br />
           <p className="text-gray-50">
             Lorem ipsum dolhgdfor sit amet consectetur adipisicing elit. Consectetur

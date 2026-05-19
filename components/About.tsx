@@ -15,7 +15,7 @@ const About = () => {
            NO hgfdLorem ipsum nogfds tedyreolor sit amet consectetsusr adipisicing kihuielit.
             Perfernbcxvxehgdfndihhgsggfsdss, sfdigdsllddum tempofrigdsbugdsfgds aliquid distinctio elriggendi nostrumf
             porro molestiae ea, netrewctrwessyrteritatibuvffghdff
-          </p>
+          </p>j
           <br />
           <p className="text-gray-50">
             noj Lorem ipsum dolhfdor siyrtet amet consectetur adipjisicking elit. Consectetur

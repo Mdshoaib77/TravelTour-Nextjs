@@ -13,7 +13,7 @@ const About = () => {
           </h1>hdfghgdfsfnhgytreyhtwhdfyrefgahyetyergfhgsdsytrereytrndd yer yer
           <p className="text-gray-50">
            NO hgfdLorem ipsum nogfds tedyreolor sittw amet couern nsectetsusr adipisicing kihuielit.
-            Perfernbcxvxehgdfndihhhtsgsggfsdss, sfdigds hdf llddum tempofrigdsbugdsfgds aliquid distinctio elriggendi nostrumf
+            Perfernbcxvxehgdfndihhhtsgsggfsdss, sfdigds hdf llddum tempofrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf
             porro molestiae ea, netrewctrwessyrteritathdfibuvffghdff yre
           </p>j
           <br />

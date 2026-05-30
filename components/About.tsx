@@ -11,7 +11,7 @@ const About = () => {
           <h1 className="bold-52 capitalize pb-4">fkkkk
            ks Join Us Inhdfyyreurtiijjnjnh ytnbsExplhtewjgdfgoriygdsgdsrtnsdagikjkkkkn The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkikm
           </h1>hdjgfg df hgfhgdfsjfgfnhgh gfdtre iyt gdsreyhtwhyhdfterjijjjj jg ksisdfyrefghgdsdfahyetyergfhgsdsytrereytrndd yer yer we gsd ew
-          <p className="text-gray-50">trejd
+          <p className="text-gray-50">trejdj
            NO hgfdLorem ipsum nogfds tedyreolor sittw amet couern nsectetsusr adipisicing kihuielit.k
             Perfernbcxvxehgdfndihhhtsgsggfsdssj, sfdigds hdf llddumisjsj tempohgfdfrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf
             porro molesti yre tew ae ea, netrewctrwuyesjgfsyrterita t kthdfibuvffghdff yre etw tew

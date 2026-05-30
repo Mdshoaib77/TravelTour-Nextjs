@@ -9,7 +9,7 @@ const About = () => {
         {/* LEFT */}
         <div className="flex flex-1 flex-col items-start justify-center">
           <h1 className="bold-52 capitalize pb-4">fkk
-           ks Join Us Inhdfyyreurtiijjnjnh ytnbsExplhtewjgdfgoriygdsgdsrtnsdagikjkkk The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjki
+           ks Join Us Inhdfyyreurtiijjnjnh ytnbsExplhtewjgdfgoriygdsgdsrtnsdagikjkkk The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkik
           </h1>hdjgfg df hgfhgdfsjfgfnhg gfdtre iyt gdsreyhtwhyhdfterjij jg ksisdfyrefghgdsdfahyetyergfhgsdsytrereytrndd yer yer we gsd ew
           <p className="text-gray-50">trejd
            NO hgfdLorem ipsum nogfds tedyreolor sittw amet couern nsectetsusr adipisicing kihuielit.k

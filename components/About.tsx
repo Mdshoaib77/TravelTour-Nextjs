@@ -7,7 +7,7 @@ const About = () => {
     <section className="max-container padding-container py-24">
       <div className=" flex flex-col gap-8 lg:flex-row pb-24">
         {/* LEFT */}
-        <div className="flex flex-1 flex-col items-start justify-center">
+        <div className="flex flex-1 flex-col items-start justify-icenter">
           <h1 className="bold-52 capitalize pb-4">fkkkk
            ks Join Us Inhdfyyreurtiijjnjnh ytnbsExplhtewjgdfgoriygdsgdsrtnsdagikjkkkk The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkik
           </h1>hdjgfg df hgfhgdfsjfgfnhg gfdtre iyt gdsreyhtwhyhdfterjij jg ksisdfyrefghgdsdfahyetyergfhgsdsytrereytrndd yer yer we gsd ew

@@ -10,7 +10,7 @@ const About = () => {
         <div className="flex flex-1 flex-col items-start justify-icenter">
           <h1 className="bold-52 capitalize pb-4">fkkkk
            ks Join Us Inhdfyyreurtiijjnjnh ytnbsExplhtewjgdfgoriygdsgdsrtnsdagikjkkkknbjjjj The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkikmkkjj
-          </h1>hdjgfg df hgfhgdfsjfgfnhgh gfdtre iyt gdsreyhtwhyhdfterjijjjjj jg ksisdfyrefghgdsdfahyetyergfhgsdsytrereytrndd yer yer we gsd ew
+          </h1>hdjgfg df hgfhgdfsjfgfnhgh gfdtrejj iyt gdsreyhtwhyhdfterjijjjjj jg ksisdfyrefghgdsdfahyetyergfhgsdsytrereytrndd yer yer we gsd ew
           <p className="text-gray-50">trejdj
            NO hgfdLorem ipsum nogfds tedyreolor sittw amet couern nsectetsusr adipisicing kihuielit.k
             Perfernbcxvxehgdfndihhhtsgsggfsdssj, sfdigds hdf llddumisjsj tempohgfdfrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf

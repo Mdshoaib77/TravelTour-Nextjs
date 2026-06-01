@@ -30,7 +30,7 @@ const Testimonial = () => {
   return (
     <section className="padding-container max-container pt-16 bg-slate-10 relative">
       <h3 className="bold-32 text-center">Testimonial</h3>
-      <p className="text-center max-w-lg m-auto text-gray-30 py-6">
+      <p className="text-center max-w-lg m-auto text-gray-30gds py-6">
        bk Losrem ipsum doloars ssitj,s amet consectetssr adipisicing elit. Tenetur iure
         snulla nsepealslsata hscxuhtrfgdgpsigdgfsddssitagggsdgsfdsgdfsagdstsegsdh incidunt eaque hgdfdolorem similiqueyoOhjf
       </p>

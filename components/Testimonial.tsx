@@ -33,7 +33,7 @@ const Testimonial = () => {
       <p className="text-center max-w-lg m-auto text-gray-30gds py-6">
        bk Losrem ipsum doloars ssitj,s amet consectetssr adipisicing elit. Tenetur iure
         snulla nsepealslsata hscxuhtrfgdgpsigdgfsddsstwitagggsdgsfdsgdfsagdstsetrewgstewdh incidunt eaque hgdfdolorem similiqueyoOhjf
-      </p>
+      </p>twe
       <Slider {...settings}>
         {TESTIMONIAL.map((testimonial) => (
           <TestimonialItem

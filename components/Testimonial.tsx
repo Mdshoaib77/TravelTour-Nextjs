@@ -32,7 +32,7 @@ const Testimonial = () => {
       <h3 className="bold-32 text-center">Testimonial</h3>
       <p className="text-center max-w-lg m-auto text-gray-30 py-6">
        bk Losrem ipsum doloars ssitj,s amet consectetssr adipisicing elit. Tenetur iure
-        snulla nsepealslsata hscxuhtrfgdgpsigdgfsddssitagggsfdsatsegsdh incidunt eaque dolorem similiqueyoOhjf
+        snulla nsepealslsata hscxuhtrfgdgpsigdgfsddssitagggsfdsatsegsdh incidunt eaque hgdfdolorem similiqueyoOhjf
       </p>
       <Slider {...settings}>
         {TESTIMONIAL.map((testimonial) => (

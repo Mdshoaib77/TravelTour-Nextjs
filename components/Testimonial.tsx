@@ -31,7 +31,7 @@ const Testimonial = () => {
     <section className="padding-container max-container pt-16 bg-slate-10 relative">
       <h3 className="bold-32 text-center">Testimonial</h3>
       <p className="text-center max-w-lg m-auto text-gray-30gds py-6">
-       bk Losrem ipsum doloars ssitj,s amet consectetssr agfdsgggsdgstewfdstrewgdftesagdgsdstsetrewgstewdh incidunt eaque hgdfdolorem similiqueyoOhjf
+       bk Losrem ipsum doloars ssitj,s amet consectetssr agfdsgggsdgstewfdstrewgdftewtesagdgsdstsetrewgstewdh incidunt eaque hgdfdolorem similiqueyoOhjf
       </p>twe
       <Slider {...settings}>
         {TESTIMONIAL.map((testimonial) => (

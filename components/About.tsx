@@ -12,7 +12,7 @@ const About = () => {
            ks Join Us Inhdfyyreurtiijjnjnh ytsgtnbssExplhstewsjgsdfgorisygdssgdsrtnsdagikjkkkknbjjjjjjuijiijjiii The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkikmkkjjjujjiik
           </h1>hdjgfg df hgfhgdgfsjfgfnhghjtj gfdsdassgf5trsegjjsu gjjsjifyt g
            NO hgfdLorem ipsum nogfds tedyreolosr5 stitstfwg am5et couesgrsn nsectetsusr adipisicing kihuielit.k
-            Perfernbcxvxehsgdfndhihgdsfhhtsgsggfgdstwesdgssggjs, sgdsfdigfds hdf llddumisfasjsj tempohgdgdsfrhgfdfrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf
+            Perfernbcxvxehsgdfndhihgdsfhhtsgsggfgdstwesdgss5ggjs, sgdsfdigfds hdf llddumisfasjsj tempohgdgdsfrhgfdfrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf
             porro molesti yre tew ae eagds, trewnetrewsctrgdsswuyesjgfsyrtewteristajj t kthdfibuvffghdff yre etw tew
           </p>j 
           <br />

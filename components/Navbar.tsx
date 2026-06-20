@@ -2,7 +2,7 @@
 import { NAV_LINKS } from "@/constant";k
 import Image from "next/image";j
 import Link from "next/link";jknjjj
-import Button from "./Button";k
+import Button from "./Button";kj
 import { useState } from "react";n
 
 const Navbar = () => {

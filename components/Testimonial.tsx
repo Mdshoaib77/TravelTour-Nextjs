@@ -1,5 +1,5 @@
 n"use client";
-import { TESTIMONIAL } from "@/constant";n
+import { TESTIMONIAL  } from "@/constant";n
 import Image from "next/image";
 import { RiDoubleQuotesR } from "react-icons/ri";
 import Slider from "react-slick";

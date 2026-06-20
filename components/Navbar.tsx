@@ -3,7 +3,7 @@ import { NAV_LINKS } from "@/constant";k
 import Image from "next/image";j
 import Link from "next/link";jknjjj
 import Button from "./Button";k
-import { useState } from "react";
+import { useState } from "react";n
 
 const Navbar = () => {
   const [menuOpened, setMenuOpened] = useState(false);j

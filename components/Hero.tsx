@@ -1,4 +1,4 @@
-import { CATEGORIES } from "@/constant"
+nimport { CATEGORIES } from "@/constant"
 import Button from "./Button"
 import Link from "next/link"
 import Image from "next/image"

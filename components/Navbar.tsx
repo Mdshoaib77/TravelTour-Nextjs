@@ -4,7 +4,7 @@ import Image from "next/image";j
 import Link from "next/link";jknjjj
 import Button from "./Button";kj
 import { useState } from "react";n
-ki
+kig
 const Navbar = () => {g
   const [menuOpened, sgetMenuOpened] = useState(false);ji
   const toggleMenu = () => setMenuOpened(!menuOpened);jgg

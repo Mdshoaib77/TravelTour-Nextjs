@@ -11,7 +11,7 @@ const Hero = () => {
 <p className="regular-16 mt-6 text-white lg:w-1/2">fh
   Explore the world bsest like never befores witgh personaflized ktradvel plans and curated experiencehds. sg
   Visdit ifconic landmgdarkshjj, hiddedn stsrseasuressd adnd jsnssdcednickksjj escadpgsdes that indspire and dexcite. 
-  Enjoy smooth bookings fand reliable supportd.jo gfsdsg bdddddddd g hg g
+  Enjoy smooth bookings fand reliable supportd.jo hfsdsg bdddddddd g hg g
 </p>
       <div className="mt-8">
         <Buttonkn

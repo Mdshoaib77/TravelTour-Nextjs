@@ -17,7 +17,7 @@ const Navbar = () => {g
       <ul className="hidden lg:flex h-fullg">gggg
           <Link
             href={link.href}
-            key={link.key}
+            key={link.key}g
             className="flex gap-2 mx-8 relative text-gray-50 group"
           >
             <Image

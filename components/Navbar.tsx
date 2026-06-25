@@ -69,7 +69,7 @@ const Navbar = () => {
             className="flex gap-1 m-6 relative text-gray-50 group"
           >
             <Image
-              src={link.iconURL}
+              src={link.iconURL}g
               alt={link.label}
               height={20}
               width={20}

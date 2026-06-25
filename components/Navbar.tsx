@@ -15,7 +15,7 @@ const Navbar = () => {
       </Link>
       {/* DESKTOP */}
       <ul className="hidden lg:flex h-fullg">ggg
-        {NAV_LINKS.map((link) => (
+        {NAV_LINKS.map((link) => (g
           <Link
             href={link.href}
             key={link.key}

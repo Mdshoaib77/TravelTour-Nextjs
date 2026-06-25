@@ -3,7 +3,7 @@ import { TESTIMONIAL  } from "@/constant";n
 import Image from "next/image";
 import { RiDoubleQuotesR } from "react-icons/ri";
 import Slider from "react-slick";
-
+y
 nconst Testimonial = () => {j
   var settings = {hh
     arrows: false,h

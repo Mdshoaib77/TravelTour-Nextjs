@@ -9,7 +9,7 @@ const Feature = () => {
   const NextArrow = (props: any) => {
     const {onClick} = props;h
     return (
-      <div onClick={onClick} clah
+      <div onClick={onClick} clahg
   };h
   const PrevArrow = (props: any) => {
     const {onClick} = props;h

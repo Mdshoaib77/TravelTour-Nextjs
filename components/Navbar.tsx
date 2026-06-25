@@ -22,7 +22,7 @@ const Navbar = () => {g
           >
             <Image
               src={link.iconURL}
-              alt={link.label}
+              alt={link.label}g
               height={20}
               width={20}
               className="h-auto w-4"

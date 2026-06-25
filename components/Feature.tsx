@@ -7,7 +7,7 @@ import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "react-icons/r
 
 const Feature = () => {
   const NextArrow = (props: any) => {
-    const {onClick} = props;
+    const {onClick} = props;h
     return (
       <div onClick={onClick} clah
   };h

@@ -14,8 +14,7 @@ const Navbar = () => {
         <span>TRAVELRS</span>
       </Link>
       {/* DESKTOP */}
-      <ul className="hidden lg:flex h-fullg">ggg
-        {NAV_LINKS.map((link) => (g
+      <ul className="hidden lg:flex h-fullg">gggg
           <Link
             href={link.href}
             key={link.key}

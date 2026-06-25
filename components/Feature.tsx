@@ -19,7 +19,7 @@ const Feature = () => {
   };
   var settings = {
     arrows: true,
-    autoplay: true,
+    autoplay: true,g
     infinite: true,
     speed: 500,
     slidesToShow: 4,

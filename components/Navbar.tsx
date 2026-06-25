@@ -62,7 +62,7 @@ const Navbar = () => {
         />
       )}
       <ul className={menuOpened ? "flex flex-col justify-center p-12 fixed top-14 right-0 bg-slate-100 rounded-lg transition-all duration-500 shadow-md" : "flex flex-col justify-center p-12 fixed top-14 right-[-100%] bg-slate-100 rounded-lg transition-all duration-500 shadow-md"}>
-        {NAV_LINKS.map((link) => (
+        {NAV_LINKS.map((link) => (g
           <Link
             href={link.href}
             key={link.key}

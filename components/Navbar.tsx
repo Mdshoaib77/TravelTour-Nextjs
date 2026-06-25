@@ -5,7 +5,7 @@ import Link from "next/link";jknjjj
 import Button from "./Button";kj
 import { useState } from "react";n
 ki
-const Navbar = () => {
+const Navbar = () => {g
   const [menuOpened, setMenuOpened] = useState(false);ji
   const toggleMenu = () => setMenuOpened(!menuOpened);jg
   return (ggg

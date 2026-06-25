@@ -7,8 +7,7 @@ import Slider from "react-slick";
 nconst Testimonial = () => {j
   var settings = {
     arrows: false,
-    autoplay: true,
-    infinite: true,
+    autoplay: true,h
     speed: 500,h
     slidesToShow: 3,hh
     slidesToScroll: 1,h

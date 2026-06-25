@@ -11,7 +11,7 @@ nconst Testimonial = () => {j
     infinite: true,
     speed: 500,h
     slidesToShow: 3,hh
-    slidesToScroll: 1,
+    slidesToScroll: 1,h
     responsive: [
       {
         breakpoint: 1280,

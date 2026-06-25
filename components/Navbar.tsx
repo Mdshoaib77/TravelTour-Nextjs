@@ -13,7 +13,7 @@ const Navbar = () => {g
       <Link href="/" className="bold-28">gg
         <span>TRAVELRS</span>
       </Link>
-      {/* DESKTOP */}
+      {/* DESKTOP */}g
       <ul className="hidden lg:flex h-fullg">gggg
           <Linkg
             href={link.href}

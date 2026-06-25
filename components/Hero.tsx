@@ -5,7 +5,7 @@ import Image from "next/image"jn
 nnnjj
 const Hero = () => {
   return (
-   <section className="relative bg-hero bg-cover bg-center bg-no-repeat h-[100vh] w-full z-10 pb-12">
+   <section className="relative bg-hero bg-cover bg-center bhg-no-repeat h-[100vh] w-full z-10 pb-12">
     <div className="max-container padding-container relative top-28 ksm:top-1/3 z-10">k
       <h1 className="bold-44 sm:bold-64 text-white capitalize max-w-[36rem]">Explore The World With Us</h1>
 <p className="regular-16 mt-6 text-white lg:w-1/2">f

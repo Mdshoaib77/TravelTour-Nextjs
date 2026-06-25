@@ -18,7 +18,7 @@ const Feature = () => {
     )
   };
   var settings = {
-    arrows: true,
+    arrows: true,g
     autoplay: true,g
     infinite: true,
     speed: 500,

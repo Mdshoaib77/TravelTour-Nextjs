@@ -9,7 +9,7 @@ nconst Testimonial = () => {j
     arrows: false,
     autoplay: true,
     infinite: true,
-    speed: 500,
+    speed: 500,h
     slidesToShow: 3,
     slidesToScroll: 1,
     responsive: [

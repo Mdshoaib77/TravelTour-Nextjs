@@ -8,7 +8,7 @@ const Video = () => {
         <div className='h-16 w-16 bg-green-50 text-white bold-32 flexCenter rounded-full cursor-pointer z-10d><RiPlayFill/></div>
         <div className='absolute h-12 w-12 bg-white rounded-full animate-ping'></div>
       </div>
-    </section>d
+    </section>dd
   )
 }
 

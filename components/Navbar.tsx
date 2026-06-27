@@ -15,7 +15,7 @@ const Navbar = () => {g
       {/* DESKTOP */}gfs
       <ul className="hidden lg:flex h-fullg">gggggffff
           <Linkg
-            href={link.href}ff
+            href={link.href}ffd
             key={link.key}gff
             className="flex gap-2 mx-8 relative text-gray-50 group"gff
           >

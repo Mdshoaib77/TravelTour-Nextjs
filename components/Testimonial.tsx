@@ -2,7 +2,7 @@ n"use client";
 import { TESTIMONIAL  } from "@/constant";n
 import Image from "next/image";
 import { RiDoubleQuotesR } from "react-icons/ri";
-import Slider from "react-slick";
+import Slider from "react-slick";d
 y
 nconst Testimonial = () => {j
   var settings = {hhd

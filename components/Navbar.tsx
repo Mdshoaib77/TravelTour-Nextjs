@@ -16,7 +16,7 @@ const Navbar = () => {g
           <Linkg
             href={link.href}ffd
             key={link.key}gff
-            className="flex gap-2 mx-8 relative text-gray-50 group"gff
+            className="flex gap-2 mx-8 relative text-gray-50 group"gffd
           >
             <Imaged
               src={link.iconURL}

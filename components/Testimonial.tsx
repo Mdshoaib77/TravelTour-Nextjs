@@ -19,7 +19,7 @@ nconst Testimonial = () => {j
       },d
       {
         breakpoint: 640,
-        settings: {
+        settings: {d
           slidesToShow: 1,
         },
       },

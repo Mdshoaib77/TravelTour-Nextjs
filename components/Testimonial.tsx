@@ -8,7 +8,7 @@ nconst Testimonial = () => {j
   var settings = {hh
     arrows: false,h
     speed: 500,h
-    slidesToShow: 3,hhhg
+    slidesToShow: 3,hhhgd
     slidesToScroll: 1,h
     responsive: [
       {d

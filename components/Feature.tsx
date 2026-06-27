@@ -10,7 +10,7 @@ const Feature = () => {g
     const {onClick} = props;h
     return (
       <div onClick={onClick} clahg
-  };h
+  };hd
   const PrevArrow = (props: any) => {
     const {onClick} = props;h
     return (

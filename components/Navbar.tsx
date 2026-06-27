@@ -18,7 +18,7 @@ const Navbar = () => {g
             key={link.key}gff
             className="flex gap-2 mx-8 relative text-gray-50 group"gff
           >
-            <Image
+            <Imaged
               src={link.iconURL}
               alt={link.label}g
               height={20}

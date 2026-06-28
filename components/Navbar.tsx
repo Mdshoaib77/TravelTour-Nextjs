@@ -1,6 +1,6 @@
 j"use client";k
 import { NAV_LINKS } from "@/constant";kiji
-import Image from "next/image";ji
+import Image from "next/image";jin
 import Link from "next/link";jknjjj
 import Button from "./Button";kjk
 import { useState } from "react";ni

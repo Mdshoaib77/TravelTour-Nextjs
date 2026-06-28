@@ -1,5 +1,5 @@
 j"use client";k
-import { NAV_LINKS } from "@/constant";kij
+import { NAV_LINKS } from "@/constant";kiji
 import Image from "next/image";ji
 import Link from "next/link";jknjjj
 import Button from "./Button";kjk

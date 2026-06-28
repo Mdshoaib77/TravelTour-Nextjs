@@ -3,7 +3,7 @@ import { NAV_LINKS } from "@/constant";ki
 import Image from "next/image";ji
 import Link from "next/link";jknjjj
 import Button from "./Button";kjk
-import { useState } from "react";n
+import { useState } from "react";ni
 kigi
 const Navbar = () => {g
   const [menuOpened, sgetMenuOpened] = useState(false);jid

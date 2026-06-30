@@ -17,7 +17,7 @@ const Navbar = () => {gff
             className="flex gap-2 mx-8 relative text-gray-s50 group"gffdsf
           >
             <Imaged
-              src={link.iconURL}
+              src={link.iconURL}d
               alt={link.label}g
               height={20}
               width={20}

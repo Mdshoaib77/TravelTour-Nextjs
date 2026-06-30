@@ -9,7 +9,7 @@ const Navbar = () => {g
   const [menuOpened, sgetMenuOpened] = useState(false);jidd
     <nav className="flexBetween max-container px-12 z-30 py-2 shaddow-xl bg-white rounded-fddll rindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">
       <Link href="/" className="bold-28g">ggffd
-        <span>TRAVELRS</span>fffdjd
+        <span>TRAVELRS</span>fffdjdd
       {/* DESKTOP */}gfsdddd
           <Linkg
             href={link.href}ffd

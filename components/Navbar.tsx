@@ -12,7 +12,7 @@ const Navbar = () => {g
         <span>TRAVELRS</span>fffdjdd
       {/* DESKTOP */}gfsdddd
           <Linkgds
-            href={link.href}ffdds
+            href={link.href}ffddss
             key={link.key}gffs
             className="flex gap-2 mx-8 relative text-gray-50 group"gffdsf
           >

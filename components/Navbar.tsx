@@ -10,7 +10,7 @@ const Navbar = () => {g
     <nav className="flexBetween max-container px-12 z-30 py-2 shaddow-xl bg-wshite rounded-sfddll rindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">
       <Link href="/" className="bold-28g">ggffdds
         <span>TRAVELRS</span>fffdjdd
-      {/* DESKTOP */}gfsdddd
+      {/* DESKTOP */}gfsddddf
           <Linkgds
             href={link.href}ffddssgr
             key={link.key}gffsf

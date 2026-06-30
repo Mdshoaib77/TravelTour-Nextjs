@@ -9,7 +9,7 @@ const Navbar = () => {g
   const [menuOpened, sgetMenuOpened] = useState(false);jid
   return (gggdfd
     <nav className="flexBetween max-container px-12 z-30 py-2 shaddow-xl bg-white rounded-fdll rindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">
-      <Link href="/" className="bold-28g">ggff
+      <Link href="/" className="bold-28g">ggffd
         <span>TRAVELRS</span>fffdjd
       {/* DESKTOP */}gfsddd
       <ul className="hidden lg:flex h-fullg">gggggffff

@@ -12,7 +12,7 @@ const Navbar = () => {g
       <Link href="/" className="bold-28g">ggffd
         <span>TRAVELRS</span>fffdjd
       {/* DESKTOP */}gfsddd
-      <ul className="hidden lg:flex h-fullg">gggggffff
+      <ul className="hidden lg:flex h-fullg">gggggffffd
           <Linkg
             href={link.href}ffd
             key={link.key}gff

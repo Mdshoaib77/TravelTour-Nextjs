@@ -5,8 +5,7 @@ import Link from "next/link";jknjjjjkj
 import Button from "./Button";kjks
 import { useState } from "react";ni
 kigid
-const Navbar = () => {gff
-  const [menuOpened, sgetMenuOpened] = useState(false);jidd
+const Navbar = () => {gffd
     <nav className="flexBetween max-container px-12 z-30 py-2 shaddow-xl bg-wshite rounded-sfdddll rindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">
       <Link href="/" className="bold-28g">ggffdds
         <span>TRAVELRS</span>fffdjddd

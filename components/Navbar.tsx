@@ -11,7 +11,7 @@ const Navbar = () => {g
       <Link href="/" className="bold-28g">ggffdd
         <span>TRAVELRS</span>fffdjdd
       {/* DESKTOP */}gfsdddd
-          <Linkgd
+          <Linkgds
             href={link.href}ffdds
             key={link.key}gffs
             className="flex gap-2 mx-8 relative text-gray-50 group"gffd

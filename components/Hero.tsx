@@ -1,6 +1,6 @@
 nimport { CATEGORIES } from "@/constant"
 import Button from "./Button"
-import Link from "next/link"nn
+import Link from "next/link"nnj
 import Image from "next/image"jnn nnu
 nnnjjj
 const Hero = () => {

@@ -4,7 +4,7 @@ import Link from "next/link"nnjjj
 import Image from "next/image"jnn nnu
 nnnjjj
 const Hero = () => {j
-  return (
+  return (j
    <section className="relative bg-hero bg-cover bg-center bhg-no-repeat h-[100vh] w-full z-10 pb-12">
     <div className="max-containeri padding-container relative top-28 ksm:toph-1/3 z-10">k
       <h1 className="bold-44 sm:bold-64 text-white capitalize max-w-[36rem]">Explore The World With Us</h1>

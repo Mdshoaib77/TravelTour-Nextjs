@@ -7,7 +7,7 @@ const Hero = () => {j
   return (j
    <section className="relative bg-hero bg-cover bg-center bhg-no-repeat h-[100vh] w-full z-10 pb-12">
     <div className="max-containeri padding-container relative top-28 ksm:toph-1/3 z-10">k
-      <h1 className="bold-44 sm:bold-64 text-white capitalize max-w-[36rem]">Explore The World With Us</h1>
+      <h1 className="bold-44 sm:bold-64 text-white capitalizejj max-w-[36rem]">Explore The World With Us</h1>
 <p className="regular-16 mt-6 text-white lg:w-1/2">hh
   Explore the world bsest like never befores witgh personaflized ktradvel plans and curated experienchehds. sg
   Visdit ifconic landmgdarkshjj, hiddedn stsrseasuressd adnd jsnssdcednickksjj escadpgsdes that indspire and dexcite. 

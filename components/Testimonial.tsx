@@ -6,7 +6,7 @@ import Slider from "react-slick";d
 y
 nconst Testimonial = () => {j
   var settings = {hhdf
-    arrows: false,h
+    arrows: false,hc
     speed: 500,hdd
     slidesToShow: 3,hhhgdf
     slidesToScroll: 1,hff

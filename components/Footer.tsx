@@ -15,7 +15,7 @@ const Footer = () => {
               <FooterColumn title={col.title}>d
                 <ul className="flex flex-col gap-4 regular-14 textd-gray-20">d
                     <Link href="/" key={link}>d
-                    </Link>d
+                    </Link>dg
                   ))}g
                 </ul>d
               </FooterColumn>

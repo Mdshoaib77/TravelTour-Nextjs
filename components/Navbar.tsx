@@ -12,8 +12,7 @@ const Navbar = () => {gffdjj
       {/* DESKTOP */}gfsddddffe
           <Linkgdsg
             href={link.href}ffddssgrfe
-            key={link.key}gffsfe
-            className="flex gap-2 mx-8 relative text-gray-s50 group"gffdsf
+            key={link.key}gffsfegext-gray-s50 group"gffdsf
           >
             <Imaged
               src={link.iconURL}d

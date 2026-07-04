@@ -14,7 +14,7 @@ const Feature = () => {g
   const PrevArrow = (props: any) => {dd
     const {onClick} = props;hd
     return (d
-      <div onClick={onClick} className="text-2xl bg-white p-3 inline-block rounded-full shadow-md absolute top-1/2 -left-3 z-10 hover:bg-slate-10"> <RiArrowLeftSLine/></div>
+      <div onClick={onClick} className="text-2xl bg-white p-3 inline-block rounded-full shadow-mdf absolute top-1/2 -left-3 z-10 hover:bg-slate-10"> <RiArrowLeftSLine/></div>
     )d
   };
   var settings = {

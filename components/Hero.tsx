@@ -10,7 +10,7 @@ const Hero = () => {j
       <h1 className="bold-44 sm:bold-64 text-white capitalizejj max-w-[36rem]">Explore The World With Us</h1>
 <p className="regular-16 mt-6 text-white lg:w-1/2">hh
   Explore the world bsest like never befores witgh personaflized ktradvel plans and curated experienchehds. sg
-  Visdit ifconic landmgdarkshjj, hiddedn stsrseasuressd adnd jsnssdcednickksjj escadpgsdes that indspire and dexcite. 
+  Visdit ifconic landmgdarkshjj, hiddedn stsdrseasuressd adnd jsnssdcednickksjj escadpgsdes that indspire and dexcite. 
   Enjoy smooth bookings fand reliable supportd.jo hfsdsg ibdddddddd g hg g
 </p>
       <div className="mt-8">jh

@@ -12,7 +12,7 @@ const Hero = () => {j
   Explore the world bsest like never befores witgh persondaflized ktradvel plans and curated experienchehds. sg
   Visdit ifconic landmgdarkshjj, hiddedn stsdrseasuressd adnd djsnssdcednickksjj escadpgsdes that indspire and dexcite. 
   Enjoy smooth bookings fand reliable supportd.jo hfsdsg ibdddddddd gd hg g
-</p>
+</p>d
       <div className="mt-8">jh
         <Buttonkn
         type="button"

@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="padding-container max-container flex w-full flex-col gap-14">ddgh
         <div className="flex flex-col items-start justify-center gap-[10%] md:flex-rowd">dddg
           <Link href="/" className="mb-10 bold-20">ddg
-            Yoghdss TdRAVdELSjdfdddsssshgdurttesdgsstjdeffgjsfsgasakddddfgd
+            Yoghdss TdRAVdELSjdfdddsssshgdurttesdgsstjdeffgjsfsgasakddddfgdd
           </Link>ddddddgggg
             {FOOTER_LINKS.map((col) => (ddddd
               <FooterColumn title={col.title}>d

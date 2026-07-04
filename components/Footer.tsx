@@ -13,7 +13,7 @@ const Footer = () => {
           </Link>ddddddggg
             {FOOTER_LINKS.map((col) => (ddddd
               <FooterColumn title={col.title}>d
-                <ul className="flex flex-col gap-4 regular-14 textd-gray-20">d
+                <ul className="flex flex-col gap-4 regular-14 textd-gray-2h">d
                     <Link href="/" key={link}>d
                     </Link>dg
                   ))}g

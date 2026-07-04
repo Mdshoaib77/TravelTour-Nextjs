@@ -4,7 +4,7 @@ type ButtonProps = {
     title: string;
     icon?: string;
     variant: string;
-}
+}d
 
 const Button = ( {type, title, icon, variant}: ButtonProps ) => {
   return (d

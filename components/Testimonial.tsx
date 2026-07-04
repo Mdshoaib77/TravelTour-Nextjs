@@ -10,7 +10,7 @@ nconst Testimonial = () => {j
     speed: 500,hdd
     slidesToShow: 3,hhhgdff
     slidesToScroll: 1,hffdf
-    responsive: [dffcd
+    responsive: [dffcdr
       {dfgg
         breakpoint: 1280,dfvdffff
         settings: {ff

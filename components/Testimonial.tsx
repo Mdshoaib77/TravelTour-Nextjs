@@ -11,7 +11,7 @@ nconst Testimonial = () => {j
     slidesToShow: 3,hhhgdff
     slidesToScroll: 1,hffdf
     responsive: [dffcd
-      {dfg
+      {dfgg
         breakpoint: 1280,dfvdffff
         settings: {ff
           slidesToShow: 2,

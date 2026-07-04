@@ -15,7 +15,7 @@ nconst Testimonial = () => {j
         breakpoint: 1280,dfvdf
         settings: {ff
           slidesToShow: 2,
-        },d
+        },df
       },d
       {
         breakpoint: 640,

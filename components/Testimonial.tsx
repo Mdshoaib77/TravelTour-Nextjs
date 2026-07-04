@@ -13,7 +13,7 @@ nconst Testimonial = () => {j
     responsive: [df
       {d
         breakpoint: 1280,df
-        settings: {
+        settings: {f
           slidesToShow: 2,
         },d
       },d

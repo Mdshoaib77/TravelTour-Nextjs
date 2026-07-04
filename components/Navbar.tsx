@@ -7,7 +7,7 @@ import { useState } from "react";ni
 kigide
 const Navbar = () => {gffdjj
     <nav className="flexBetween max-container px-12 z-30 py-2 shaddow-xl bg-wshite rounded-sfdddll rindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">
-      <Link href="/" className="bold-28g">ggffdds
+      <Link href="/" className="bold-28g">ggffddsg
         <span>TRAVELRS</span>fffdjdddd
       {/* DESKTOP */}gfsddddffe
           <Linkgdsg

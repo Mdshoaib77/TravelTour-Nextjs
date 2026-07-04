@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-const Footer = () => {
+const Footer = () => {d
   return (kk
     <footer className="flexCenter mb-24 pt-20">
       <div className="padding-container max-container flex w-full flex-col gap-14">ddgh

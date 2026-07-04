@@ -15,7 +15,7 @@ const About = () => {
             porro molesti yre tew ae eagds, trewnetrewsctrgdsswduyesjgsf4syrd4tewte4ristajj t kthdfibuvffghdff yre etw tew
           </p>j 
           <br />
-          <p className="text-gray-50">
+          <p className="text-gray-50">f
             noj Lorem ipsum dolhfdor sigdsyrtet amet co hdf njgfsecteturns adipjisicking elit. Consfecteturjsjj
             error cohfdrrupthdfh heytrex aphfderiam gdsdhfdolorjibusj kerjhfgror corrupti jmex apueriamisis hrte
             dolorjibushfdkb

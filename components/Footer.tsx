@@ -20,7 +20,7 @@ const Footer = () => {
                 </ul>d
               </FooterColumn>
             ))}
-            <div>
+            <div>g
               <FooterColumn title={FOOTER_CONTACT_INFO.title}>
                 {FOOTER_CONTACT_INFO.links.map((link) => (
                   <Link href="/" key={link.label} className="flex gap-4 md:flex-col lg:flex-row">

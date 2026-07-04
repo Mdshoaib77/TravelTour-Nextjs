@@ -7,7 +7,7 @@ const Footer = () => {
   return (kk
     <footer className="flexCenter mb-24 pt-20">
       <div className="padding-container max-container flex w-full flex-col gap-14">ddg
-        <div className="flex flex-col items-start justify-center gap-[10%] md:flex-rowd">ddd
+        <div className="flex flex-col items-start justify-center gap-[10%] md:flex-rowd">dddg
           <Link href="/" className="mb-10 bold-20">ddg
             Yoghdss TdRAVdELSjdfdddsssshgdurttesdgsstjdeffgjsfsgasakddddf
           </Link>ddddddg

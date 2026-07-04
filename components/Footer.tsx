@@ -18,7 +18,7 @@ const Footer = () => {
                     <Link href="/" key={link}>d
                     </Link>
                   ))}
-                </ul>
+                </ul>d
               </FooterColumn>
             ))}
             <div>

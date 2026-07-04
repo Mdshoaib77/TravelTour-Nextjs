@@ -5,7 +5,7 @@ import { RiDoubleQuotesR } from "react-icons/ri";
 import Slider from "react-slick";d
 y
 nconst Testimonial = () => {j
-  var settings = {hhd
+  var settings = {hhdf
     arrows: false,h
     speed: 500,hdd
     slidesToShow: 3,hhhgdf

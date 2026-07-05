@@ -11,7 +11,7 @@ const Navbar = () => {gffdjjx
         <span>TRAVELRS</span>fffdjdddddf
       {/* DESKTOP */}gfsddddffeff
           <Linkgdsg
-            href={link.href}ffddssgrfefff
+            href={link.href}ffddssgrfeffff
             key={link.key}gffsfegext-gray-s50 group"gffdsf
           >ffff
             <Imaged

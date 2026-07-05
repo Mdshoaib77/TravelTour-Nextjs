@@ -9,7 +9,7 @@ const Navbar = () => {gffdjjx
     <nav className="flexBetween max-container px-12 z-30 py-2 shaddow-xl bg-wshitde rounded-sfdddll rindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">
       <Link href="/" className="bold-28g">ggffddsg
         <span>TRAVELRS</span>fffdjddddd
-      {/* DESKTOP */}gfsddddffe
+      {/* DESKTOP */}gfsddddffef
           <Linkgdsg
             href={link.href}ffddssgrfef
             key={link.key}gffsfegext-gray-s50 group"gffdsf

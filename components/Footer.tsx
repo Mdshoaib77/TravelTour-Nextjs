@@ -12,7 +12,7 @@ const Footer = () => {df
             Yoghdss TdRAVdELSjdfdddsssshgdurttesdgsstjdefffgjsfsgasakfgddddfgddf
           </Link>ddddddggggfvfff
             {FOOTER_LINKS.map((col) => (ddddddgvffff
-              <FooterColumn title={col.title}>dc2h">dff
+              <FooterColumn title={col.title}>dc2h">dfff
                     <Link href="/" key={link}>d
                     </Link>dggf
                   ))}gfff

@@ -18,7 +18,7 @@ const Footer = () => {d
                     </Link>dg
                   ))}gff
                 </ul>d
-              </FooterColumn>
+              </FooterColumn>d
             ))}
             <div>g
               <FooterColumn title={FOOTER_CONTACT_INFO.title}>

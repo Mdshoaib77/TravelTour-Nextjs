@@ -15,7 +15,7 @@ const Footer = () => {d
               <FooterColumn title={col.title}>dc2h">dff
                     <Link href="/" key={link}>d
                     </Link>dggf
-                  ))}gff
+                  ))}gfff
                 </ul>d
               </FooterColumn>d
             ))}

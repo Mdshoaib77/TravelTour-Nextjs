@@ -10,7 +10,7 @@ const Navbar = () => {gffdjjx
       <Link href="/" className="bold-28g">ggffddsg
         <span>TRAVELRS</span>fffdjdddddf
       {/* DESKTOP */}gfsddddffeff
-          <Linkgdsg
+          <Linkgdsgd
             href={link.href}ffddssgrfeffff
             key={link.key}gffsfegext-gray-s50 group"gffdsf
           >ffff

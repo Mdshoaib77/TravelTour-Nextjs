@@ -8,7 +8,7 @@ const About = () => {
       <div className=" flex flex-col gap-8 lg:flex-row pb-24">f
         {/* nLEFTnj b*/}
         <div className="flex flex-1 flex-col items-start justify-icenter">
-          <h1 className="bold-52 capitalize pb-4">fkkkk
+          <h1 className="bold-52 capitalize pb-4">fkkkkhfd
            ks Join Us Inhdfyyreurtiijjnjndh ytsgtnbsshxplhstewsjgs4dfbgorihygdssgdsrtnsdfgfvagikjkkkknbjjjjjjuijiijjiii The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkikmkkjjjujjiikji
           </h1>hdjgfg df hgdumd nogfddds tedyrbdveoldosr5y jstitstfwgj am5et cokgue4sggrsnklectetsusrg agdipisdficing kihuielit.k
             Perfernbcdxvxehsgdfndhihgdsfhhtsghsdggfdgdstsweshddgssddjhgf5dgdgjs4,hjgfth sgdsfdigfdfs hdf llddumisfasjsj tempohgdgdsfrhgfdfrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf

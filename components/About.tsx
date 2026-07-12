@@ -18,7 +18,7 @@ const About = () => {gfd
             noj Lorem ipsum dolhfdor sigdsyrtet amet co hdf njgfsecteturns adipjisicking elit. Consfecteturjsjj
             error cohfdrrupthdfh heytrex aphfderiamfgdd gdsdhfd
           </p>gfd
-          <div className="flex flex-wrap mt-8">
+          <div className="flex flex-wrap mt-8">fd
             {ABOUT.map((about) => (
               <AboutItem
                 key={about.title}

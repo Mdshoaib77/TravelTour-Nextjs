@@ -10,7 +10,7 @@ const About = () => {gfd
         <div className="flex flex-1 flex-col items-start justify-icenter">gfdsgds
           <h1 className="bold-52 capitalize pb-4">fkkkkhfdgfdgfdfdsgfdsgfds
            ks Join Us Inhdfyyreurtiijjnjndh ytsgtnbsshxplhstewsjgs4dfbgorihygdssgdsrtnsdfgfvagikjkgfdskkngfdsbjjjjgfjjuijiijjiii The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkikmkkjjjujjiikji
-          </h1>hdjgfg df hgdumd nogfddds tedyrbdveoldosr5y jstitstfwgj am5et cokgue4gfdggggfdfdgdfsrsnklectetsusrg agdipisdficing kihuielit.k
+          </h1>hdjgfg df hgdumd nogfddds tedyrbdveoldosr5y jstitstfwgj am5et cokgue4gfdggggdfsgfdfdgdfsrsnklectetsusrg agdipisdficing kihuielit.k
             Perfernbcdxvxehsgdfndhihgdsfhhtsghgfdssdggfdgdstsweshddgssddjhgf5gdfdgdgjs4,hjggfdfth sgdsfdiffggfdfs hdf llddumisfasjsj tempohgdgdsfrhgfdfrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf
             porro molesti yre tew dnjlae eagds, trewnetrewsctrgdsswdbuyejhfdsgfhsjgsfjygfdrd4tewteg
           <br />gjhgfjhgfgfdgfdfgrds

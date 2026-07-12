@@ -15,7 +15,7 @@ const About = () => {gfd
             porro molesti yre tew dnjlae eagds, trewnetrewsctrgdsswdbuyejhfdsgfhsjgsfjygfdrd4tewteg
           <br />gjhgfjhgfgfdgfdfgrds
           <p className="text-gray-50">fjgfgfgfdgfds
-            noj Lorem ipsum dolhfdor sigdsyrtet amet co hdf njgfsecteturns adipjisicking elit. Consfecteturjsjj
+            noj Lorem ipsum dolhfdor sigdsyrtet amet co hdf njgfsecteturns adipjgfdsisicking elit. Consfecteturjsjj
             error cohfdrrupthdfh heytrex aphfderiamfgdd gdsdhfd
           </p>gfd
           <div className="flex flex-wrap mt-8">fd

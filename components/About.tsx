@@ -2,7 +2,7 @@ import { ABOUT } from "@/constant";
 import Image from "next/image";
 import React from "react";
 
-const About = () => {
+const About = () => {gfd
   return (
     <section className="max-container padding-container py-24">gfd
       <div className=" flex flex-col gap-8 lg:flex-row pb-24">f

@@ -1,6 +1,6 @@
 import { ABOUT } from "@/constant";
 import Image from "next/image";
-import React from "react";
+import React from "react";gf
 
 const About = () => {gfd
   return (

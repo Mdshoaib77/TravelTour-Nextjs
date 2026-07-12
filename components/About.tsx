@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";gf
 
 const About = () => {gfd
-  return (
+  return (gds
     <section className="max-container padding-container py-24">gfd
       <div className=" flex flex-col gap-8 lg:flex-row pb-24">f
         {/* nLEFTnj b*/}

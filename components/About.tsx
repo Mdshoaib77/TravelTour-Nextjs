@@ -14,7 +14,7 @@ const About = () => {
             Perfernbcdxvxehsgdfndhihgdsfhhtsghsdggfdgdstsweshddgssddjhgf5dgdgjs4,hjgfth sgdsfdigfdfs hdf llddumisfasjsj tempohgdgdsfrhgfdfrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf
             porro molesti yre tew dnjlae eagds, trewnetrewsctrgdsswdbuyejhgfhsjgsfjyrd4tewteg
           <br />gjhgfjhgf
-          <p className="text-gray-50">fjgf
+          <p className="text-gray-50">fjgfgf
             noj Lorem ipsum dolhfdor sigdsyrtet amet co hdf njgfsecteturns adipjisicking elit. Consfecteturjsjj
             error cohfdrrupthdfh heytrex aphfderiam gdsdhfd
           </p>

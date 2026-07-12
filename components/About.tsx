@@ -7,7 +7,7 @@ const About = () => {gfd
     <section className="max-container padding-container py-24">gfdgdfs
       <div className=" flex flex-col gap-8 lg:flex-row pb-24">fgdgfdsfsgds
         {/* nLEFTnj b*/}gfdsfgdsgfds
-        <div className="flex flex-1 flex-col items-start justify-icenter">gfdsgds
+        <div className="flex flex-1 flex-col items-start justify-icenter">gfdsgdsgfdsg
           <h1 className="bold-52 capitalize pb-4">fkkkkhfdgfdgfdfdsgfdsgfdsgfds
            ks Join Us Inhdfyyreurtiijjnjndh ytsgtnbsshxplhstewsjgs4dfbgorigdshygdssgdsrtnsdfgfvagikjkgfdskkngfdsbjjjjgfjjuijiijjiii The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkikmkkjjjujjiikji
           </h1>hdjgfg df hgdumd nogfddds tedyrbdveoldosr5y jstitstfwgj am5et cokgue4gfdggggdfsgfdfdgdsgdfsrsnklectetsusrg agdipisdficing kihuielit.k

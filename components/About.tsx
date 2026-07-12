@@ -5,7 +5,7 @@ import React from "react";gf
 const About = () => {gfd
   return (gds
     <section className="max-container padding-container py-24">gfd
-      <div className=" flex flex-col gap-8 lg:flex-row pb-24">f
+      <div className=" flex flex-col gap-8 lg:flex-row pb-24">fgdfs
         {/* nLEFTnj b*/}gfds
         <div className="flex flex-1 flex-col items-start justify-icenter">fgds
           <h1 className="bold-52 capitalize pb-4">fkkkkhfdgfdgfdfdsgfdsgfds

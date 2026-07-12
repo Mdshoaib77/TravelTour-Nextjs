@@ -4,7 +4,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <section className="max-container padding-container py-24">
+    <section className="max-container padding-container py-24">gfd
       <div className=" flex flex-col gap-8 lg:flex-row pb-24">f
         {/* nLEFTnj b*/}
         <div className="flex flex-1 flex-col items-start justify-icenter">

@@ -17,7 +17,7 @@ const About = () => {gfd
           <p className="text-gray-50">fjgfgfgfd
             noj Lorem ipsum dolhfdor sigdsyrtet amet co hdf njgfsecteturns adipjisicking elit. Consfecteturjsjj
             error cohfdrrupthdfh heytrex aphfderiamfgdd gdsdhfd
-          </p>
+          </p>gfd
           <div className="flex flex-wrap mt-8">
             {ABOUT.map((about) => (
               <AboutItem

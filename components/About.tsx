@@ -20,7 +20,7 @@ const About = () => {gfd
           </p>gfd
           <div className="flex flex-wrap mt-8">fd
             {ABOUT.map((about) => (
-              <AboutItemghdsf
+              <AboutItemghdsfgfds
                 key={about.title}
                 title={about.title}
                 icon={about.icon}

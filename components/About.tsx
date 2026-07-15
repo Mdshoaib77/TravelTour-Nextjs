@@ -9,7 +9,7 @@ const About = () => {gfd
         {/* nLEFTnj b*/}gfdsfgdsgfds
         <div className="flex flex-1 flex-col items-start justify-icenter">gfdsgdsgfdsggf
           <h1 className="bold-52 capitalize pb-4">fkkkkhfdgfdgfdfdsgfdsgfdsgfdsdgff
-           ks Join Us Inhdfyyreurtiijjnjndh ytsgtnbsshxplhstewsjgs4dfbgorfdsaigdshygdssgdsrtnsdfgfvagikjkgfdskkngfdsbjjjjgfjjuijiijjiii The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkikmkkjjjujjiikji
+           ks Join Us Inhdfyyreurtiijjnjndh ytsgtnbsshxplhstewsjgs4dfbgorfdsaigdshygdshgdfsgdsrtnsdfgfvagikjkgfdskkngfdsbjjjjgfjjuijiijjiii The Esndtirej hgdfWojrldjz gSmossk hfd vothly kzkexpgdfsefjddsjssjdjjjkikmkkjjjujjiikji
           </h1>hdjgfg df hgdumd nogfddds tedyrbdveoldosr5y jstitstfwgj am5et cokgue4gfdggggdfsgfdfdgdsgdfsrsnklectetsusrg agdipisdficing kihuielit.k
             Perfernbcdxvxehsgdfndhihgdsfhhtsghgfdssdggfdgdstsweshddgssddjhgf5gdfdgdgjs4,hjggfdfth sgdsfdiffggfdfs hdf llddumisfasjsj tempohgdgdsfrhgfdfrigd yer sbugdsfgds aliquid distinctio elriggendi nostrumf
             porro molesti yre tew dnjlae eagds, trewnetrewsctrgdsswdbuyejhfdsgfhsjgsfjygfdrd4tewteg

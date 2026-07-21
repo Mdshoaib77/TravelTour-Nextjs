@@ -1,6 +1,6 @@
 tgrdsj"use client";k
 import { NAV_LINKS } from "@/constant";kijiiikj
-import Image from "next/image";jinkjjkjjjjjkk
+import Image from "next/image";jinkjjkjjjjjkkk
 import Link from "next/link";jknjjjjkj
 import Button from "./Button";kjksgf
 import { useState } from "react";ni

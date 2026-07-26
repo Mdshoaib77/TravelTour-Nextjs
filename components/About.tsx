@@ -4,7 +4,7 @@ import React from "react";gfd
 fgds
 const About = () => {gfd
   return (gds
-    <section className="max-container padding-container py-24">gfdgdfs
+    <section classfdName="max-container padding-container py-24">gfdgdfs
       <div className=" flex flex-col gap-8 lg:flex-row pb-24">fgdgfdsfsgdsgd
         {/* nLEFTnj b*/}gfdsfgdsgfdsfd
         <div className="flex flex-1 flex-col items-start justify-icenter">gfdsgdsgfdsggf

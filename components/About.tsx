@@ -15,7 +15,7 @@ const About = () => {gfd
           <br />gjhgfjhgfgfdgfdfgrdsd
           <p className="text-gray-50">fjgfgfgfdgfdsgfdsht
             noj Lorem ipsum dolhfdor sigdsyrtet amet co hdf njgfsecteturns adipjgfdsisicking elit. Consfecteturjsjj
-            error cohfdrrupthdfh heytrex aphfderiamfgdd fgds
+            error cohfdrrupthdfh heytrex aphfderiamfgdd fgdsfd
           </p>gfd
           <div className="flex flex-wrap mt-8">fd
             {ABOUT.map((about) => (

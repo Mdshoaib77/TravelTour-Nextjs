@@ -1,5 +1,5 @@
 import Image from 'next/image';
-type ButtonProps = {
+type ButtonProps = {kij
     type: 'button' | 'submit'
     title: string;
     icon?: string;

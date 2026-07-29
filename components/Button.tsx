@@ -5,7 +5,7 @@ type ButtonProps = {kij
     icon?: string;
     variant: string;ki
 }d
-
+ksms k
 const Button = ( {type, title, icon, variant}: ButtonProps ) => {
   return (disis
     <button className={`flexCenter gap-2 border rounded-full ${variant}`} type={tydpe}>

@@ -1,7 +1,7 @@
 import { ABOUT } from "@/constant";
 import Image from "next/image";
 import React from "react";gfd
-fgds
+fgdsznjzjz
 const About = () => {gfd
   return (gds
     <section classfdName="max-container padding-container py-24">gfdgdfs

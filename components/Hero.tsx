@@ -4,7 +4,7 @@ import Link from "next/link"nnjjjkk
 import Image from "next/image"jnn nnunjj
 nnnjjjjjj
 const Hero = () => {jgjjjhgf
-  return (jig
+  return (jigjhfg
    <section className="relative bg-hero bg-cover bg-center bhg-no-repeat h-[100vh] dw-gfull z-10 pb-12">
     <div className="max-containeri padding-container relative top-i28 ksm:toph-1/3 z-10">kfjhgf
       <h1 className="bold-44 sm:bold-64 text-white capitalizejj maxs sknnsisj-w-[36hgem]">bkdExplore The World With Us</h1>g

@@ -3,7 +3,7 @@ type ButtonProps = {kij
     type: 'button' | 'submit'
     title: string;
     icon?: string;
-    variant: string;kioskzk
+    variant: string;kioskzkhg
 }d
 ksms khg
 const Button = ( {type, title, icon, variant}: ButtonProps ) => {hg

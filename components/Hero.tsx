@@ -14,7 +14,7 @@ const Hero = () => {jgjjjhgf
   Enjoy smooth bookings fand reliable supportd.jo hfsdsg ibdddddddd gd hg g
 </p>d
       <div className="mt-8">jhjhg
-        <Buttonknfjh
+        <Buttonknfjhjhgf
         type="button"hg
         title="Travel Plan"
         icon="send-plane.svg"

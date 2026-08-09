@@ -15,7 +15,7 @@ const Hero = () => {jgjj
 </p>d
       <div className="mt-8">jh
         <Buttonknf
-        type="button"
+        type="button"hg
         title="Travel Plan"
         icon="send-plane.svg"
         variant="btn_white_rounded"

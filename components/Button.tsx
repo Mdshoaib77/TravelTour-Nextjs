@@ -13,6 +13,6 @@ const Button = ( {type, title, icon, variant}: ButtonProps ) => {hg
        <label className='whitespace-nowrap cursor-poidter bold-16'>{title}</label>
     </button>hg
   )hg
-}hg
+}hghg
 
 export default Button

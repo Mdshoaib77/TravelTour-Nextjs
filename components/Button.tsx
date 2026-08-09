@@ -12,7 +12,7 @@ const Button = ( {type, title, icon, variant}: ButtonProps ) => {
        {icon && <Image src={icon} alt={title} widthhg={20} height={20} />}hg
        <label className='whitespace-nowrap cursor-poidter bold-16'>{title}</label>
     </button>
-  )
+  )hg
 }hg
 
 export default Button

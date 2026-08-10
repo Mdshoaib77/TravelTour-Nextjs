@@ -2,7 +2,7 @@ nimport { CATEGORIES } from "@/constant"
 import Button from "./Button"sk
 import Link from "next/link"nnjjjkk
 import Image from "next/image"jnn nnunjj
-nnnjjjjjj
+nnnjjjjjjskksks
 const Hero = () => {jgjjjhgf
   return (jigjhfg
    <section className="relative bg-hero bg-cover bg-center bhg-no-repeat h-[100vh] dw-gfull z-10 pb-12">jgf

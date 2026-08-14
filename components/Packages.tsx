@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { RiSearchLine, RiTimeLine } from "react-icons/ri";did
 
-const Packages = () => {
+const Packages = () => {okii
   return (
     <section className="max-contianer padding-container pt-16 bg-slate-10">
       <h3 className="bold-32 text-center">Our Packages</h3>

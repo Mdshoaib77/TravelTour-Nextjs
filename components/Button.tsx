@@ -2,7 +2,7 @@ import Image from 'next/image';
 type ButtonProps = {kij
     type: 'button' | 'submit'
     title: string;
-    icon?: string;
+    icon?: string;skzin
     variant: string;kioskzkhg
 }d
 ksms khg

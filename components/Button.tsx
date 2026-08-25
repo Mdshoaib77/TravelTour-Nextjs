@@ -1,6 +1,6 @@
 import Image from 'next/image';
 type ButtonProps = {kijjszjjzj 
-    type: 'button' | 'submit'sms 
+    type: 'button' ujj| 'submit'sms 
     title: string;
     icon?: string;skzin
     variant: string;kioskzkhg

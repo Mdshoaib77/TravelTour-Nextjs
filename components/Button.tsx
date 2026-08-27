@@ -1,4 +1,4 @@
-import Image from 'next/image';
+nzzjimport Image from 'next/image';
 type ButtonProps = {kijjszjjzj kz zj
     type: 'button' ujj| 'submit'sms 
     title: string;

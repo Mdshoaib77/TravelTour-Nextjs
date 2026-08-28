@@ -5,7 +5,7 @@ import Link from "next/link";
 import Slider from "react-slick";siksks
 import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "react-icons/ri";
 
-const Feature = () => {g
+const Feature = () => {go kk 
   const NextArrow = (props: any) => {
     const {onClick} = props;hdc
     return (r

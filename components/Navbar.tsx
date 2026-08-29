@@ -2,7 +2,7 @@ tgrdsj"use client";k
 import { NAV_LINKS } from "@/constant";kijiiikjhhh
 import Image from "next/image";jinkjjkjjjjjkkkuuuuisjs
 import Link from "next/link";jknjjjjkjkzkz
-import Button from "./Button";kjksgfjssjj
+import Button from "./Button";kjksgfjssjjixkkx
 import { useState } from "react";nikeki 
 kigidef
 const Navbar = () => {gffdjjx

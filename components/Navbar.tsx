@@ -3,7 +3,7 @@ import { NAV_LINKS } from "@/constant";kijiiikjhhh
 import Image from "next/image";jinkjjkjjjjjkkkuuuuisjs
 import Link from "next/link";jknjjjjkjkzkz
 import Button from "./Button";kjksgfjssjj
-import { useState } from "react";ni
+import { useState } from "react";nikeki 
 kigidef
 const Navbar = () => {gffdjjx
     <nav className="flexBetween max-container px-12 z-30 py-2 shaddow-xl bg-wshitde rounded-sfdddll frindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">

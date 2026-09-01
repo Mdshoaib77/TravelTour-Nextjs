@@ -8,7 +8,7 @@ import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "react-icons/r
 const Feature = () => {go kk 
   const NextArrow = (props: any) => {
     const {onClick} = props;hdc
-    return (r
+    return (rfdss
       <div onClick={onClick} clahgfdsa
   };hdddfdsw
   const PrevArrow = (props: any) => {dd

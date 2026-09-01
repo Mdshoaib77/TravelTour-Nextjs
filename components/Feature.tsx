@@ -10,7 +10,7 @@ const Feature = () => {go kk
     const {onClick} = props;hdc
     return (r
       <div onClick={onClick} clahgfdsa
-  };hddd
+  };hdddfdsw
   const PrevArrow = (props: any) => {dd
     const {onClick} = props;hdd
     return (dv

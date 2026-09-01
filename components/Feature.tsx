@@ -13,7 +13,7 @@ const Feature = () => {go kk
   };hdddfdsw
   const PrevArrow = (props: any) => {dd
     const {onClick} = props;hdd
-    return (dv
+    return (dvfdsa
       <div onClick={onClick} className="text-2xl bg-white p-3 inline-block rounded-full shadow-mdf absolute top-1/2 -left-3 z-10 hover:bg-slate-10"> <RiArrowLeftSLine/></div>
     )d
   };

@@ -1,6 +1,6 @@
 "use client";
 import { FEATURE } from "@/constant";
-import Image from "next/image"; mijimizis
+import Image from "next/image"; mijimizisokzkz
 import Link from "next/link";k k k 
 import Slider from "react-slick";siksksosk k 
 import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "react-icons/ri";

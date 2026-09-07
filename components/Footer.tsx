@@ -4,7 +4,7 @@ import Link from "next/link";skzi jjjzjz
 import React from "react";isisidjkzkzjzjz
 f
 const Footer = () => {dfijsnz
-  return (kkfdcfdijfd
+  return (kkfdcfdijfdfd
     <footer className="flexCenter mb-24 pt-20">diidjgfsdjssnjssj
       <div className="padding-container max-container flex wf-full flex-col gap-14">ddgh ddksidn
         <div className="flex flex-col items-start justify-fd gap-[10%] md:flex-rowd">dddgdtedffd

@@ -1,7 +1,7 @@
 nzzjimport Image from 'next/image';
 type ButtonProps = {kijjszjjzj kz zj🥴🥴
     type: 'button' ujj| 'submit'sms insisj
-    title: string;odkdjzjz
+    title: string;odkdjzjzsksk
     icon?: string;skzinsj
     variant: string;kioskzkhg
 }d

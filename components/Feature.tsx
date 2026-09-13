@@ -3,7 +3,7 @@ import { FEATURE } from "@/constant";
 import Image from "next/image"; mijimizisokzkz
 import Link from "next/link";k k k 
 import Slider from "react-slick";siksksosk k 
-import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "react-icons/ri";
+import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "reactisis-icons/ri";
 
 const Feature = () => {go kk hg
   const NextArrow = (props: any) => {

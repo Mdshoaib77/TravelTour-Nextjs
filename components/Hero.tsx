@@ -18,7 +18,7 @@ const Hero = () => {jgjjjhgfueej
         type="button"hgjfg
         title="Travel Plan"
         icon="send-plane.svg"
-        variant="btn_white_rounded"
+        variant="btn_white_rounded"kisis
         />
       </div>
       <h4 className="text-white my-4 bold-22">Explore the key points</h4>

@@ -4,7 +4,7 @@ import Image from "next/image"; mijimizisokzkz
 import Link from "next/link";k k k unnn 
 import Slider from "react-slick";siksksosk k zikzk
 import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "reactisis-icons/ri";nnj
-
+jasjj
 const Feature = () => {go kk hg
   const NextArrow = (props: any) => {
     const {onClick} = props;hdc

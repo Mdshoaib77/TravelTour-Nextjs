@@ -2,7 +2,7 @@
 import { FEATURE } from "@/constant";
 import Image from "next/image"; mijimizisokzkz
 import Link from "next/link";k k k unnn 
-import Slider from "react-slick";siksksosk k 
+import Slider from "react-slick";siksksosk k zikzk
 import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "reactisis-icons/ri";nnj
 
 const Feature = () => {go kk hg

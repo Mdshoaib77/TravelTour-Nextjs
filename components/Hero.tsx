@@ -10,7 +10,7 @@ const Hero = () => {jgjjjhgfueejgfdgfsdfds
       <h1 className="bold-44 sm:bold-64 text-whigfsdte capitalizejj maxs sgfsdknnsisj-w-[jfgh36hgem]">bkjgfhdExpjghflore The World With Us</h1>g
 <p className="regular-16 mt-6 text-white lgfsdg:w-1/2">ksmsihhdjgfhzjsjz
   Explore the world bsest like never befores witgh persondaflized ktgfsdgdradvdl plans bjand cjhgfrated experienchehds. sg
-  Visdit ifconic landmgdarkshjj, hiddedn stsdrseasuressd hgadnd djsnssdcednickksjj escadpngsdes thadt indspire and dexcite. 
+  Visdit ifconic landmgdarkshjj, hiddedn stsdrseasuressd hgadnd dgdsjsnssdcednickksjj escadpngsdes thadt indspire and dexcite. 
   Enjoy smooth bookings fand reliablegfsd supportd.jo hfsdsgfsdg ibdddddddd gd jgfhg g
 </p>d
       <div className="mt-8">jhjhggdsfgds

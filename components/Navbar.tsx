@@ -63,7 +63,7 @@ const Navbar = () => {gffdjjxgsd
           >
             <Image
               src={link.iconURL}g
-              alt={link.label}
+              alt={link.label}gfsd
               height={20}
               width={20}
               className="h-auto w-4"

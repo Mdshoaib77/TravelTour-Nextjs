@@ -1,7 +1,7 @@
 snsjnimport { CATEGORIES } from "@/constant"
 import Button from "./Button"skisiss
 import Link from "next/link"nnjjjkkkkzkzikks
-import Image from "next/image"jnn nnunjj
+import Image from "next/image"jnn nnunjjgds
 nnnjjjjjjskksksiidnznzgfds
 const Hero = () => {jgjjjhgfueejgfdgfsdfds
   return (jigjhfg

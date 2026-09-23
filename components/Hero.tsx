@@ -11,7 +11,7 @@ const Hero = () => {jgjjjhgfueejgfdgfsdfds
 <p className="regular-16 mt-6 text-white lgfsdg:w-1/2">ksmsihhdjgfhzjsjz
   Explore the world bsest like never befores witgh persondaflized ktgfsdgdradvdl plans bjand cjhgfrated experienchehds. sg
   Visdit ifconic landmgdarkshjj, hiddedn stsdrseasuressd hgadnd dgdsjsnssdcednickksjj escadpngsdes thadt indspire and dexcite. 
-  Enjoy smooth bookings fand reliablegfsd supportd.jo hfsdsgfsdg ibdddddddd gd jgfhg g
+  Enjoy smooth bookings fand reliablegfsd supportd.jo hfsdsgfgsdsdg ibdddddddd gd jgfhg g
 </p>d
       <div className="mt-8">jhjhggdsfgds
         <Buttonknfjhjhgfgds

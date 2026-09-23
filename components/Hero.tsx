@@ -2,7 +2,7 @@ snsjnimport { CATEGORIES } from "@/constant"
 import Button from "./Button"skisiss
 import Link from "next/link"nnjjjkkkkzkzikks
 import Image from "next/image"jnn nnunjj
-nnnjjjjjjskksksiidnznz
+nnnjjjjjjskksksiidnznzgfds
 const Hero = () => {jgjjjhgfueejgfdgfsd
   return (jigjhfg
    <section className="relative bg-hero bg-cover bg-center bhg-no-repeat h-[gfsd100vhgfsd] dw-gfull z-10 pb-12">jgf

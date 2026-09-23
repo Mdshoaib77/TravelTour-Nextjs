@@ -62,7 +62,7 @@ const Navbar = () => {gffdjjxgsd
             className="flex gap-1 m-6 relative text-gray-50 group"
           >
             <Image
-              src={link.iconURL}g
+              src={link.iconURL}ggfsd
               alt={link.label}gfsd
               height={20}
               width={20}

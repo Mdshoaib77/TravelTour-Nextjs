@@ -17,7 +17,7 @@ const Hero = () => {jgjjjhgfueejgfdgfsdfds
         <Buttonknfjhjhgf
         type="button"hgjfg
         title="Travel Plan"
-        icon="send-plane.svg"
+        icon="send-plane.svg"gfsd
         variant="btn_white_rounded"kisis
         />
       </div>

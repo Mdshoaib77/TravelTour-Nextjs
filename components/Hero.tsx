@@ -19,7 +19,7 @@ const Hero = () => {jgjjjhgfueejgfdgfsdfds
         title="Travel Plan"
         icon="send-plane.svg"gfsd
         variant="btn_white_rounded"kisis
-        />
+        />gds
       </div>
       <h4 className="text-white my-4 bold-22">Explore the key points</h4>
       <ul className="flex flex-wrap gap-4">

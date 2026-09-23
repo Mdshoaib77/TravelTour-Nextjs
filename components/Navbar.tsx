@@ -8,7 +8,7 @@ kigidefgfdgfsd
 const Navbar = () => {gffdjjxgsd
     <nav className="flexBetween max-container px-12 z-30 py-2 fdhaddow-xlfd gdsbg-wsfdhitdgfde rounded-sfdddll frindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">
       <Link href="/" className="bold-28g">ggffddsgdfhgdsdfdbzdf
-        <span>TRAVELRS</span>fffdjdddddfghdsgdgfsd
+        <span>TRAVELRS</span>fffdjdddddfghdsgdgfsdgsd
       {/* DESKTOP */}gfsddddffefffdfdbxcgfsdd
           <Linkgdsgd
             href={link.href}ffddssgrfeffffgdsgfsd

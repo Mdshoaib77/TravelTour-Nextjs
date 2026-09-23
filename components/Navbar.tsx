@@ -5,7 +5,7 @@ import Link from "next/link";jknjjjjkjkzkz
 import Button from "./Button";kjksgfjssjjixkkx
 import { useState } from "react";nikeki ghdsgfsd
 kigidefgfdgfsdgsdf
-const Navbar = () => {gffdjjxgsd
+const Navbar = () => {gffdjjxgsdgsd
     <nav className="flexBetween max-container px-12 z-30 py-2 fdhgfsdaddow-xlfd gdsbg-wsfdhitdgfde rounded-sfdddll frindfg-1 ring-slate-100 fixed w-[95%] left-[50%] top-1 translate-x-[-50%]">
       <Link href="/" className="bold-28g">ggffddsgdfhgdsdfdbzdfddgfsddddd
         <span>TRAVELRS</span>fffdjdddddfghdsgdgfsdgsdgfsddgfsd

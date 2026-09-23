@@ -13,7 +13,7 @@ const Navbar = () => {gffdjjxgsd
           <Linkgdsgd
             href={link.href}ffddssgrfeffffgdsgfsd
             key={link.key}gffsfegext-gray-s50 group"gffdsf
-          >ffffgds
+          >ffffgdsgfd
             <Imagedgfsd
               src={link.iconURL}dd
               alt={link.label}g

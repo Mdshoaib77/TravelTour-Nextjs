@@ -3,7 +3,7 @@ import Button from "./Button"skisiss
 import Link from "next/link"nnjjjkkkkzkzikks
 import Image from "next/image"jnn nnunjj
 nnnjjjjjjskksksiidnznz
-const Hero = () => {jgjjjhgfueejgfd
+const Hero = () => {jgjjjhgfueejgfdgfsd
   return (jigjhfg
    <section className="relative bg-hero bg-cover bg-center bhg-no-repeat h-[gfsd100vh] dw-gfull z-10 pb-12">jgf
     <div className="max-containeri padding-container relative top-igfd28 ksm:toph-1/3 z-10">kfjgfjhgf

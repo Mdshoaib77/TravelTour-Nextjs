@@ -9,7 +9,7 @@ const Hero = () => {jgjjjhgfueej
     <div className="max-containeri padding-container relative top-i28 ksm:toph-1/3 z-10">kfjgfjhgf
       <h1 className="bold-44 sm:bold-64 text-white capitalizejj maxs sknnsisj-w-[jfgh36hgem]">bkjgfhdExpjghflore The World With Us</h1>g
 <p className="regular-16 mt-6 text-white lg:w-1/2">ksmsihhdjgfhzjsjz
-  Explore the world bsest like never befores witgh persondaflized ktradvdl plans bjand cjhgfrated experienchehds. sg
+  Explore the world bsest like never befores witgh persondaflized ktgfsdgdradvdl plans bjand cjhgfrated experienchehds. sg
   Visdit ifconic landmgdarkshjj, hiddedn stsdrseasuressd hgadnd djsnssdcednickksjj escadpngsdes thadt indspire and dexcite. 
   Enjoy smooth bookings fand reliable supportd.jo hfsdsg ibdddddddd gd jgfhg g
 </p>d

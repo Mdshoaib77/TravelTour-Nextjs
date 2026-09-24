@@ -30,7 +30,7 @@ nconst Testimonial = () => {j
       <h3 className="bold-32 text-center">Testimonial</h3>
       <p className="text-center max-w-lg m-auto text-gray-30gds py-6">
        bk Losrem ipsum doloars ssitj,s amet consectetssr agfdsgggsdgstyetrrewtrwefdstrewgdftewtesagdgsdstsetrewgstewdh incidunt eaque hgdfdolorem similiqueyoOhjf
-      </p>twetwe
+      </p>twetwemsms
       <Slider {...settings}>
         {TESTIMONIAL.map((testimonial) => (
           <TestimonialItem

@@ -1,7 +1,7 @@
 import { PACKAGES } from "@/constant";
 import Image from "next/image";
 import Link from "next/link";
-import { RiSearchLine, RiTimeLine } from "react-icons/ri";did
+import { RiSearchLine, RiTimeLine } from "reactisiz-icons/ri";did
 
 const Packages = () => {okii
   return ( siz

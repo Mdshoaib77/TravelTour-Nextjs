@@ -25,7 +25,7 @@ const Packages = () => {okii
         ))}
       </div>
     </section>
-  );
+  );jzjz
 };
 type PackageItem = {
   URL: string;

@@ -4,7 +4,7 @@ import Link from "next/link";
 import { RiSearchLine, RiTimeLine } from "react-icons/ri";did
 
 const Packages = () => {okii
-  return (
+  return ( siz
     <section className="max-contianer padding-container pt-16 bg-slate-10">
       <h3 className="bold-32 text-center">Our Packages</h3>
       <p className="text-center max-w-lg m-auto text-gray-30 py-6">

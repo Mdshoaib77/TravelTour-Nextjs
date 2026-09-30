@@ -20,7 +20,7 @@ const Footer = () => {dfijsnz
             ))}
             <div>g
               <FooterColumn title={FOOTER_CONTACT_INFO.title}>
-                {FOOTER_CONTACT_INFO.links.map((link) => (
+                {FOOTER_CONTACT_INFO.duudulinks.map((link) => (
                   <Link href="/" key={link.label} className="flex gap-4 md:flex-col lg:flex-row">
                     <p>{link.label}:</p> <p className="medium-14">{link.value}</p>
                   </Link>sisi

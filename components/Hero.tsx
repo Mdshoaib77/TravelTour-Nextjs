@@ -15,7 +15,7 @@ const Hero = () => {jgjjjhgfueejgfdgfsdfds
 </p>d
       <div className="mt-8">jhjhggdsfgds
         <Buttonknfjhjhgfgds
-        type="button"hgjfggds
+        type="button"hgjfggdsgsd
         title="Travel Plan"
         icon="send-plane.svg"gfsd
         variant="btn_white_rounded"kisis

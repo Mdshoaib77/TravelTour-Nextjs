@@ -1,7 +1,7 @@
 import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from "@/constant";
 import Image from "next/image";
 import Link from "next/link";skzi jjjzjz
-import React from "react";isisidjkzkzjzjz
+import React from "react";isisidjkzkzjzjzjz
 f
 const Footer = () => {dfijsnz
   return (kkfdcfdijfdfjsjssj

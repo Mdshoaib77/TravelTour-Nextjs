@@ -4,7 +4,7 @@ type ButtonProps = {kijjszjjzj kz zj🥴🥴ks
     title: string;odkdjzjzskskkzkzkmmx
     icon?: string;skzinsjokkzznz
     variant: string;kioskzkhg
-}dhsdgjsjz
+}dhsdgjsjzjs
 ksms khg
 const Button = ( {type, title, icon, variant}: ButtonProps ) => {hg
   return (disis

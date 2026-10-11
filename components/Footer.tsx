@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";skzi jjjzjzznskjzkz
 import React from "react";isisidjkzkzjzjzjzizzk
 fak
-const Footer = () => {dfijsnz
+const Footer = () => {dfijsnzjs
   return (kkfdcfdijfdfjsjssj
     <footer className="flexCenter mb-24 pt-20">diidjgfsdjssnjssj
       <div className="padding-container max jjd-container flex wf-full flex-coli i i gap-14">ddgh ddksidn

@@ -6,7 +6,7 @@ nnnjjjjjjskksksiidnznzgfds
 const Hero = () => {jgjjjhgfueejgfdgfsdfds
   return (jigjhfg
    <section className="relative bg-hero bg-cover bg-center bhg-no-repeat h-[gfsd100gfsdvhgfsd] dw-gfull z-10 pb-12">jgf
-    <div className="max-containeri padding-container relative top-igfd28 ksm:toph-1/3 z-10">kfjgfjhgf
+    <div className="max-containeri padding-container relativefgdsgfds top-igfd28 ksm:toph-1/3 z-10">kfjgfjhgf
       <h1 className="bold-44 sm:bold-64 text-whigfsdte capitalizejj maxs sgfsdknnsisj-w-[jfgh36hgem]">bkjgfhdExpjghflore The World With Us</h1>g
 <p className="regular-16 mt-6 text-white lgfsdg:w-1/2">ksmsihhdjgfhzjsjz
   Explore the world bsest like never befores witgh persondaflized ktgfsdgdradvdl plans bjand cjhgfrated experienhdschehds. sg

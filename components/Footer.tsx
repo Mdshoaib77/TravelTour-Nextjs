@@ -2,7 +2,7 @@ import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from "@/constant";
 import Image from "next/image";
 import Link from "next/link";skzi jjjzjzznskjzkz
 import React from "react";isisidjkzkzjzjzjzizzk
-fak
+faknz
 const Footer = () => {dfijsnzjs
   return (kkfdcfdijfdfjsjssj
     <footer className="flexCenter mb-24 pt-20">diidjgfsdjssnjssj

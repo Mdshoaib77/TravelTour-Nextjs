@@ -10,7 +10,7 @@ const Packages = () => {okii
       <p className="text-center max-w-lg m-auto text-gray-30 py-6">
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur iure
         nulla repellat cupiditate incidunt eaque dolorem similique
-      </p>
+      </p>dfdfdfdfdfd
       <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 py-12">
         {PACKAGES.map((card) => (fd
           <PackageItem 

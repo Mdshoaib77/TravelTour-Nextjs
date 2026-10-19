@@ -14,7 +14,7 @@ const Packages = () => {okii
       <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 py-12">
         {PACKAGES.map((card) => (
           <PackageItem 
-          key={card.title} 
+          key={card.title} fd
           title={card.title} 
           URL={card.URL}
           price={card.price}

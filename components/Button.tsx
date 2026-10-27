@@ -1,7 +1,7 @@
 kdk dkdnzzjimport Image from 'next/image';
 type ButtonProps = {kijjszjjzj kz zj🥴🥴ks
     type: 'button' ujj| 'submit'sms insisjozmzmxj
-    title: string;odkdjzjzskskkzkzkmmx
+    title: string;odkdjzjzskskkzkzkmmxkzkzk
     icon?: string;skzinsjokkzznz
     variant: string;kioskzkhg
 }dhsdgjsjzjsksks

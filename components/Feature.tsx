@@ -7,7 +7,7 @@ import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "reactisis-ico
 jasjj
 const Feature = () => {go kk hg
   const NextArrow = (props: any) => {zkzinn
-    const {onClick} = props;hdc
+    const {onClick} = props;hdcznnzj
     return (rfdssnznz
       <div onClick={onClick} clahgfdsafds
   };hdddfdsw

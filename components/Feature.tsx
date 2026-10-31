@@ -6,7 +6,7 @@ import Slider from "react-slick";siksksosk k zikzknxnxjxjx
 import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "reactisis-icons/ri";nnj
 jasjj
 const Feature = () => {go kk hg
-  const NextArrow = (props: any) => {
+  const NextArrow = (props: any) => {zkzinn
     const {onClick} = props;hdc
     return (rfdssnznz
       <div onClick={onClick} clahgfdsafds

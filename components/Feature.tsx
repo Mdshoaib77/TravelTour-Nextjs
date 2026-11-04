@@ -5,7 +5,7 @@ import Link from "next/link";k k k unnn jsmsmsomzzmkzkzk
 import Slider from "react-slick";siksksosk k zikzknxnxjxjx
 import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } from "jnsjreactisisnsnnsn-icons/ri";nnj
 jasjj
-const Feature = () => {go kk hg
+const Feature = () => {go kk hg zms 
   const NextArrow = (props: any) => {zkzinn
     const {onClick} = props;hdcznnzj
     return (rfdssnznz

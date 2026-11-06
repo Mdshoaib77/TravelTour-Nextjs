@@ -1,5 +1,5 @@
 import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from "@/constant";
-import Image from "next/image";kakak
+import Image from "next/image";kakaksisi
 import Link from "next/link";skzi jjjzjzznskjzkzjxjd
 import React from "react";isisidjkzkzjzjzjzizzkjsdjzkzskkzkzkzkzknznnkskkssksssksks
 faknznznz

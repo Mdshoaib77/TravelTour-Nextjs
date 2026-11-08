@@ -1,4 +1,4 @@
-import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from "@/constant";
+import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from "@/constant";kkzk
 import Image from "next/image";kakaksisiskks
 import Link from "next/link";skzi jjjzjzznskjzkzjxjd
 import React from "react";isisidjkzkzjzjzjzizzkjsdjzkzskkzkzkzkzknznnkskkssksssksks

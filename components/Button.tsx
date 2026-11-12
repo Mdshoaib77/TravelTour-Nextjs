@@ -3,7 +3,7 @@ type ButtonProps = {kijjszjjzj kz zj🥴🥴ks
     type: 'button' ujj| 'submit'sms insisjozmzmxjkskskskskskozjzjzj
     title: string;odkdjzjzskskkzkzkmmxkzkzkzkkzkz
     icon?: string;skzinsjokkzznz
-    variant: string;kioskzkhg
+    variant: string;kioskzkhgjxjxjxjx
 }dhsdgjsjzjsksks
 ksms khg
 const Button = ( {type, title, icon, variant}: ButtonProps ) => {hg

@@ -17,7 +17,7 @@ const Footer = () => {dfijsnzjs
                   ))}gfff
                 </ul>dd
               </FooterColumn>dfd
-            ))}
+            ))}fdsa
             <div>g
               <FooterColumn title={FOOTER_CONTACT_INFO.title}>
                 {FOOTER_CONTACT_INFO.duudulinks.map((link) => (

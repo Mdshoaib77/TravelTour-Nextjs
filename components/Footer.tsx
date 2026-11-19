@@ -11,7 +11,7 @@ const Footer = () => {dfijsnzjs
           <Link href="/" className="mb-10 bold-i i 20">ddgfffdhtdffgd
             Yoghdss TdRAVdELSjdfdddsssshgdurttesdgsstjdefffgjsfsgasakfgdddfddfgddfdd
           </Link>ddddddggggfvffffdfd
-            {FOOTER_LINKS.map((col) => (dddddfddgvffffsiskkddkd
+            {FOOTER_LINKS.map((col) => (dddddfddgvffffsiskkddkdfdsafas
               <FooterColumn title={col.title}>dc2h">dfffgfdfdfd
                     <Link href="/" key={link}>dged
                   ))}gfff

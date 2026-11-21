@@ -16,7 +16,7 @@ const Footer = () => {dfijsnzjs
                     <Link href="/" key={link}>dged
                   ))}gfff
                 </ul>ddfdshdfggdf
-              </FooterColumn>dfd
+              </FooterColumn>dfdhgdfhdfg
             ))}fdsa
             <div>g
               <FooterColumn title={FOOTER_CONTACT_INFO.title}>

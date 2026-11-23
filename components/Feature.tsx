@@ -1,5 +1,5 @@
 "use client";
-import { FEATURE } from "@/constant";
+import { FEATURE } from "@/constant";nnsj
 import Image from "next/image"; mijimizisokzkzzjzjsjsjjdjnjzjzsjsjxjxjx
 import Link from "next/link";k k k unnn jsmsmsomzzmkzkzkkzkzzk
 import Slider from "react-slick";siksksosk k zikzknxnxjxjxjjjjjjj

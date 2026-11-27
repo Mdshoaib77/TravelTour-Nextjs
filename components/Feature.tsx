@@ -2,7 +2,7 @@
 import { FEATURE } from "@/constant";nnsj
 import Image from "next/image"; mijimizisokzkzzjzjsjsjjdjnjzjzsjsjxjxjxjsjzj
 import Link from "next/link";k k k unnn jsmsmsomzzmkzkzkkzkzzk
-import Slider from "react-slick";siksksosk k zikzknxnxjxjxjjjjjjjsjsj
+import Slider from "react-slick";siksksosk k zikzknxnxjxjxjjjjjjjsjsjjsjsjs
 import { RiArrowLeftSLine, RiArrowRightSLine, RiSearchLine } snsjfrom "jsjsjnsjreactisisnsnnsn-icons/ri";nnj
 jasjj
 const Feature = () => {go kk hg zms 
